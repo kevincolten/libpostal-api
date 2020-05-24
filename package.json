@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1",
-    "node-postal": "^1.0.0"
+    "@cymen/node-postal": "^2.0.4",
+    "express": "^4.17.1"
   }
 }
