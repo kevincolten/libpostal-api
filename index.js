@@ -1,5 +1,5 @@
 const express = require('express')
-const postal = require('node-postal');
+const postal = require('@cymen/node-postal');
 const app = express()
 const port = process.env.PORT || 3000
 
